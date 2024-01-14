@@ -1,6 +1,6 @@
-# publicip
+# NPI
 
-Get public ip.
+Notification Public IP.
 
 ## Getting Started
 
